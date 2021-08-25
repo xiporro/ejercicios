@@ -1,0 +1,36 @@
+#contenedor{
+    background-color:aqua;
+height: 750px;
+width: 850 px;
+}
+#menu{
+    background-color: #d6ffb7;
+    height: 750px;
+    width: 295px;
+    display: inline-block;
+}
+
+#contenido{
+    background-color: #FF9F1C;
+    height: 750px;
+    width: 550px;
+    display:inline-block;
+}
+
+#perfil{
+    background-color: blanchedalmond;
+    height: 250px;
+    width: 295px;
+}
+
+#opciones{
+    background-color: brown;
+    height: 250px;
+    width: 295px;
+}
+
+#configuracion{
+    background-color: cadetblue;
+    height: 250px;
+    width: 295px;
+}
